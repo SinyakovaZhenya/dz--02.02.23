@@ -1,0 +1,53 @@
+@import "./reset.css";
+
+html, body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #bcebb3;
+	
+}
+
+.App {
+	margin: 50px;
+}
+
+.container {
+	padding: 0 15px;
+	max-width: 1200px;
+}
+
+h1 {
+	margin-top: 30px;
+	padding-bottom: 20px;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.link {
+	
+}
+
+ul li {
+	padding-bottom: 10px;
+	font-size: 20px;
+}
+
+.list {
+	padding: 10px;
+}
+
+.Music_img {
+	width: 150px;
+}
+
+.liImg {
+	display: inline-block;
+	margin: 10px;
+}
+
+.Recipe_img {
+	margin-bottom: 20px;
+}
+
+.compound {
+	font-weight: 600;
+}
